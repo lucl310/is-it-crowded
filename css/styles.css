@@ -1,16 +1,28 @@
-body{
+body {
+
+}
+#hai{  margin-top: 15px;}
+
+#header{
+	background-color: orange;
+	}
+#lol {
+	background-color:orange;
+color: blue;
+	font-size: 50px;
+	margin-top: -100px;
 
 }
 
-header{
-	background-color: orange;
-	color: blue;
-	font-size: 100px;
-	margin-top: -10px;
-	margin-left: -10px;
-	margin-right: 540px;
-	}
-#lol {
+.header img {
+  float:left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
 
-
+.header h1 {
+  position: relative;
+  margin-top: 1111118px;
+  left: 10px;
 }
