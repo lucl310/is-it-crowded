@@ -1,28 +1,40 @@
-body {
-
-}
-#hai{  margin-top: 15px;}
-
-#header{
-	background-color: orange;
-	}
-#lol {
-	background-color:orange;
-color: blue;
-	font-size: 50px;
-	margin-top: -100px;
-
+#headWrapper{
+height: 200px;
+width: 800px;
+background-color: blue;
 }
 
-.header img {
-  float:left;
-  width: 100px;
-  height: 100px;
-  background: #555;
+#menu{
+float: left;
+height: 380px;
+width: 100px;
+background-color: lime;
 }
+#contentWrapper{
+float: left;
+height: 380px;
+background-color: red;
+}
+#title{
+height: 80px;
+background-color: hotpink;
+width: 800px;
+}
+#buttons{
+height: 80px;
+background-color: green;
 
-.header h1 {
-  position: relative;
-  margin-top: 1111118px;
-  left: 10px;
+}
+#results{
+height: 220px;
+background-color: orange;
+}
+#low{
+
+}
+#med{
+
+}
+#high{
+
 }
