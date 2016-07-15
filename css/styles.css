@@ -2,6 +2,7 @@
  	background-image:url("../assets/tester.jpg");
  }
  #headWrapper{
+ 	size: 20px;
  color:blue; 
  margin-left: 200px;
 height: 200px;
@@ -10,6 +11,7 @@ background-color: ;
 }
 
 #menu{
+	size: 20px;
 float: left;
 color:blue;
 height: 395px;
@@ -17,24 +19,28 @@ width: 100px;
 background-color: ;
 }
 #contentWrapper{
+	size: 20px;
 float: left;
 color:blue;
 height: 380px;
 background-color: ;
 }
 #title{
+	size: 20px;
 height: 80px;
 color:blue;
 background-color: ;
 width: 800px;
 }
 #buttons{
+	size: 20px;
 	color:blue;
 height: 80px;
 background-color: ;
 
 }
 #results{
+	size: 20px;
 height: 220px;
 color:blue;
 background-color: ;
