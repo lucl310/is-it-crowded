@@ -1,33 +1,43 @@
+ body {
+ 	background-image:url("../assets/tester.jpg");
+ }
  #headWrapper{
+ color:blue; 
+ margin-left: 200px;
 height: 200px;
-width: 800px;
-background-color: blue;
+width: 900px;
+background-color: ;
 }
 
 #menu{
 float: left;
-height: 380px;
+color:blue;
+height: 395px;
 width: 100px;
-background-color: lime;
+background-color: ;
 }
 #contentWrapper{
 float: left;
+color:blue;
 height: 380px;
-background-color: red;
+background-color: ;
 }
 #title{
 height: 80px;
-background-color: hotpink;
+color:blue;
+background-color: ;
 width: 800px;
 }
 #buttons{
+	color:blue;
 height: 80px;
-background-color: green;
+background-color: ;
 
 }
 #results{
 height: 220px;
-background-color: orange;
+color:blue;
+background-color: ;
 }
 #low{
 
